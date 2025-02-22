@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  calculate.cpp
+  calculator.cpp
+  calculatorDlg.cpp
+X:\1-Projiect\2-MFC项目\calculator\calculator\calculatorDlg.cpp(216,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+X:\1-Projiect\2-MFC项目\calculator\calculator\calculatorDlg.cpp(219,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+X:\1-Projiect\2-MFC项目\calculator\calculator\calculatorDlg.cpp(222,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+X:\1-Projiect\2-MFC项目\calculator\calculator\calculatorDlg.cpp(225,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+X:\1-Projiect\2-MFC项目\calculator\calculator\calculatorDlg.cpp(424,19): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+X:\1-Projiect\2-MFC项目\calculator\calculator\calculatorDlg.cpp(431,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+X:\1-Projiect\2-MFC项目\calculator\calculator\calculatorDlg.cpp(435,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  MyDialog1.cpp
+  正在生成代码...
+  LINK : 没有找到 X:\1-Projiect\2-MFC项目\calculator\x64\Debug\calculator.exe 或上一个增量链接没有生成它；正在执行完全链接
+  calculator.vcxproj -> X:\1-Projiect\2-MFC项目\calculator\x64\Debug\calculator.exe
