@@ -22,6 +22,4 @@ Simply run the file.
 ### For project files
 1. Extract the project to the same directory.
 2. Open the `calculator.sln` file using VS2022 and run it.
-
-Let me know if you need any adjustments!
   
