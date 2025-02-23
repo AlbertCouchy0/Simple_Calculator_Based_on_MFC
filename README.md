@@ -16,7 +16,7 @@ This project is a simple calculator developed using the MFC (Microsoft Foundatio
 <br>The core algorithm of the project is implemented using a linked list structure, which abstracts the expression into linked list nodes. Each node records the value of the current operand, the operator, and its precedence. Through this method, the program can efficiently handle complex expressions and correctly calculate the results.
 
 ## Running Steps
-### For exe files
+### For exe file
 Simply run the file.
 
 ### For project files
